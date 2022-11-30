@@ -1,1 +1,3 @@
-# clock
+# Clock
+
+Javascript Project
